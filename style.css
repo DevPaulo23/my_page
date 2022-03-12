@@ -1,0 +1,57 @@
+*{
+  margin: 0px;
+  padding:0px;
+}
+
+body{
+  background-color:#000000;
+}
+
+.sm{
+  background-image: url('código-fonte-e-papel-de-parede-do-desktop-pela-linguagem-programação-com-codi-124708208.jpg');
+  width: 340px;
+  height: 100px;
+}
+
+.myTittle{
+  color: #FFF500;
+  margin-left: 5px;
+  font-family:arial;
+}
+
+p{
+  color:#FFFFFF;
+  font-family: arial;
+}
+
+.gen{
+  width: 200px;
+  margin-left: 60px;
+}
+
+.name1{
+  color:#C9C9C9;
+  font-family: arial;
+}
+
+.by{
+  color:#FFFFFF;
+  font-size: 15px;
+  font-family: arial;
+}
+
+.btnaj{
+  width: 140px;
+  height: 40px;
+  border-radius: 12px;
+  border-color:#22BD00;
+  background-color: #FFFFFF;
+  font-size: 14px;
+  margin-left: 190px;
+  font-family: arial;
+}
+
+.git{
+  color: #FFDE00;
+  font-size:20px;
+}
